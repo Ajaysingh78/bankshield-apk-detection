@@ -1,0 +1,8 @@
+androguard
+apkutils2
+pandas
+scikit-learn
+xgboost
+joblib
+flask
+mitmproxy
