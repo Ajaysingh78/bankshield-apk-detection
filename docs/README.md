@@ -15,4 +15,4 @@ It uses **static analysis + machine learning** to classify APKs as **genuine or 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structur
